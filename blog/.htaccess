@@ -1,0 +1,7 @@
+AuthUserFile /home/groups/k/ka/kamaelia/cgi-bin/blog/.passwd
+AuthName TheAuthName
+AuthType Basic
+
+<Files 'food.cgi'>
+require valid-user
+</Files>
