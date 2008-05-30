@@ -1,0 +1,7 @@
+AuthName "Enter your name & password"
+AuthType Basic
+AuthUserFile /path/on/filesystem/to/your/.passwd
+
+<Files 'edit'>
+ require valid-user
+</Files>
