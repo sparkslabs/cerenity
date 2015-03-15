@@ -1,0 +1,1 @@
+Cerenity is intended to be a user oriented toolset for manipulation of content. It initially focusses on a blog engine and a wysiwyg wiki.
